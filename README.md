@@ -37,10 +37,10 @@ http://blogapp-env.eba-y3mjn6bi.ap-south-1.elasticbeanstalk.com/swagger-ui/index
 8. Go to http://localhost:9090/swagger-ui/index.html
 9. You can check and run the apis in the Postman Software also.
 
-ER - Diagram of the Blogging Application:
+# ER - Diagram of the Blogging Application:
 
 ![Screenshot_1](https://github.com/Prakhar00013/Blog-Application-Back-End-/assets/89144627/4bc335cb-8ee8-426b-937d-a7fb1cc4f653)
 
-Swagger Screenshot: 
+# Swagger Screenshot: 
 
 ![Screenshot_2](https://github.com/Prakhar00013/Blog-Application-Back-End-/assets/89144627/69dac38e-4eb9-424d-a871-0da532d3fd16)
