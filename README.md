@@ -22,6 +22,8 @@ http://blogapp-env.eba-y3mjn6bi.ap-south-1.elasticbeanstalk.com/swagger-ui/index
 4. Spring Data JPA (Hibernate)
 5. MySQL
 6. AWS
+7. Postman
+8. Swagger
 
 # How to run:
 
@@ -29,6 +31,16 @@ http://blogapp-env.eba-y3mjn6bi.ap-south-1.elasticbeanstalk.com/swagger-ui/index
 2. Open the folder in Spring Boot or IntelliJ IDEA.
 3. Setup the MySQL Database before running the application.
 4. Create a Schema: blog_app_apis, username: root and password: root
-5. To run the code, right click on the Blog-Application-Back-End folder in your IDE and go to "Run as" and click on Spring Boot App.
-6. It will start running and you can see the console for more information.
-7. Go to http://localhost:9090/swagger-ui/index.html
+5. The required table and columns will be automaticcally created at the initial run of the application.
+6. To run the code, right click on the Blog-Application-Back-End folder in your IDE and go to "Run as" and click on Spring Boot App.
+7. It will start running and you can see the console for more information.
+8. Go to http://localhost:9090/swagger-ui/index.html
+9. You can check and run the apis in the Postman Software also.
+
+ER - Diagram of the Blogging Application:
+
+![Screenshot_1](https://github.com/Prakhar00013/Blog-Application-Back-End-/assets/89144627/4bc335cb-8ee8-426b-937d-a7fb1cc4f653)
+
+Swagger Screenshot: 
+
+![Screenshot_2](https://github.com/Prakhar00013/Blog-Application-Back-End-/assets/89144627/69dac38e-4eb9-424d-a871-0da532d3fd16)
