@@ -1,7 +1,7 @@
 # Blog-Application-Back-End-
 REST APIS of Blogging Application
 
- ➤ This Blog Application (Backend) project enables the user to post blogs, comment on any blog and delete any post or comment. 
+ ➤ This Blog Application (Backend) project enables the user to post blogs, comment on any blog and delete any post or comment. \m
  ➤ The Admin can only delete any user from the applcation.
  ➤ All the apis are secured only the GET apis are public.
 
