@@ -11,9 +11,6 @@ REST APIS of Blogging Application
  ➤ All the apis are secured only the GET apis are public.<br />
  ➤ The user first have to register, then only the user is able to access the functions of the application.<br />
 
-This applcation is hosted on AWS platform, to check the real time working of the project: <br />
-http://blogapp-env.eba-y3mjn6bi.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html
-
 # Technologies Used:
 
 1. Java
